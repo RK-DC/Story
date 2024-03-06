@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CPE Rocks!
+=======
+CI/CD is life
+>>>>>>> devops

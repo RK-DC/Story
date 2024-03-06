@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I do hardware and software things
-=======
 I live in Terminal
->>>>>>> devops
